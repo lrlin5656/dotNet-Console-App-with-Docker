@@ -1,0 +1,6 @@
+version: "1"
+
+services:
+  net-core:
+    image: myconsole
+    container_name: MyConsole
