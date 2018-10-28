@@ -3,5 +3,4 @@
 
 A Dockerfile setting for console app of .Net Core 2.1
 
-by Li-Ren Lin
-
+It is running on Mac with 'Visual Studio for Mac' installed
